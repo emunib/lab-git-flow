@@ -18,7 +18,6 @@ const poems = [
     author: "Tristan ",
     poem: "New poem",
     image: "bee.jpeg",
-
   },
 
   {
