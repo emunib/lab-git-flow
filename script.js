@@ -15,9 +15,16 @@ const poems = [
     image: "bee.jpeg",
   },
   {
+<<<<<<< HEAD
     author: "Isaiah",
     poem: "Roses are red \n Emeralds are green \n Link needs to save zelda \n in BOTW 2",
     image: "Zelda.jpeg",
+=======
+    author: "Tristan ",
+    poem: "New poem",
+    image: "bee.jpeg",
+
+>>>>>>> main
   },
 
   
