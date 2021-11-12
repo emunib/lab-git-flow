@@ -15,12 +15,12 @@ const poems = [
     image: "bee.jpeg",
   },
   {
-    author: "Tristan ",
-    poem: "New poem",
-    image: "bee.jpeg",
-
+    author: "Isaiah",
+    poem: "Roses are red \n Emeralds are green \n Link needs to save zelda \n in BOTW 2",
+    image: "Zelda.jpeg",
   },
 
+  
   // YOUR CODE HERE: Add an object containing two key value pairs: author and poem. Set the author property as equal to a string with your first name. Set the poem property as equal to a short "roses are red" poem. Use the new line character as in the example when you would like a line break.
 ];
 
