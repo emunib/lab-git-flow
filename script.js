@@ -15,11 +15,16 @@ const poems = [
     image: "bee.jpeg",
   },
   {
+    author: "Ehtasham",
+    poem: "Roses are red, that much is true, but violets are purple, not bloody blue",
+    image: "violet.jpg"
+  },
+  {
     author: "Tristan ",
     poem: "New poem",
     image: "bee.jpeg",
 
-  },
+  }
 
   {
     author: "Ben",
